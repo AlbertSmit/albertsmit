@@ -1,5 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://albertsm.it/memoji.84993396.png" width="100" height="100">
+</p>
 
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+Used to be graphic designer; turned full-stack dev.
+</p>
 <!--
 **AlbertSmit/albertsmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
