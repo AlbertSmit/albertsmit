@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-Used to be graphic designer; turned full-stack dev.
+<del>Used to be graphic designer; turned full-stack dev.</del><br/>
+  okay, am both.
 </p>
 <!--
 **AlbertSmit/albertsmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
