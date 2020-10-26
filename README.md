@@ -6,3 +6,7 @@
 
 Hey! I'm Albert — a graphic designer turned frontend developer.\
 I love making graphics, software and music.
+
+---
+
+<sup><i>There is a lot of Albert Smit going on in this part of the screen; I know. ;)</i></sup>
