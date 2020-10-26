@@ -7,6 +7,8 @@
 Hey! I'm Albert — a graphic designer turned frontend developer.\
 I love making graphics, software and music.
 
----
-
-<sup><i>There is a lot of Albert Smit going on in this part of the screen; I know. ;)</i></sup>
+<span>
+  <a href="https://dribbble.com/AlbertSmit"><img src="./images/dribbble.png" height="14"></a>
+  <a href="https://www.linkedin.com/in/albert-smit"><img src="./images/linkedin.png" height="14"></a>
+  <a href="http://instagram.com/albertsm.it"><img src="./images/instagram.png" height="14"><sup>&nbsp; (private account)</sup></a>
+</span>
